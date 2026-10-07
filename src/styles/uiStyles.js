@@ -226,6 +226,8 @@ export const TECH_STYLES = {
   Vite: "bg-purple-500/15 text-purple-300 border border-purple-400/20",
   Java: "bg-orange-500/15 text-orange-300 border border-orange-400/20",
   TailwindCss: "bg-sky-500/15 text-sky-300 border border-sky-400/20",
+  "Next.js": "bg-slate-500/15 text-slate-200 border border-slate-400/20",
+  Supabase: "bg-emerald-500/15 text-emerald-300 border border-emerald-400/20",
 };
 
 // ============================================================================

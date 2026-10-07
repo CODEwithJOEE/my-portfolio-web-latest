@@ -18,6 +18,8 @@ import {
   SiVite,
   SiTailwindcss,
   SiVercel,
+  SiNextdotjs,
+  SiSupabase,
 } from "react-icons/si";
 
 export const skillsGroups = [
@@ -32,19 +34,22 @@ export const skillsGroups = [
     ],
   },
   {
-    title: "Library",
-    skills: [{ name: "React", icon: FaReact, color: "#61DBFB" }],
+    title: "Libraries & Frameworks",
+    skills: [
+      { name: "React", icon: FaReact, color: "#61DBFB" },
+      { name: "Next.js", icon: SiNextdotjs, color: "#FFFFFF" }, // ✅ white
+    ],
   },
   {
-    title: "Frameworks & Tools",
+    title: "Build Tools & Styling", // ✅ bagong pangalan
     skills: [
       {
         name: "WordPress (themes & plugins)",
         icon: FaWordpress,
         color: "#21759B",
       },
-      { name: "Vite", icon: SiVite, color: "#41D1FF " },
-      { name: "TailWind CSS", icon: SiTailwindcss, color: "#38bdf8 " },
+      { name: "Vite", icon: SiVite, color: "#41D1FF" },
+      { name: "TailWind CSS", icon: SiTailwindcss, color: "#38bdf8" },
     ],
   },
   {
@@ -52,11 +57,12 @@ export const skillsGroups = [
     skills: [
       { name: "MySQL", icon: SiMysql, color: "#4479A1" },
       { name: "SQLite", icon: SiSqlite, color: "#0D597F" },
+      { name: "Supabase", icon: SiSupabase, color: "#3ECF8E" },
     ],
   },
   {
     title: "Version Control & Collaboration",
-    skills: [{ name: "Git / GitHub", icon: FaGithub, color: "#181717" }],
+    skills: [{ name: "Git / GitHub", icon: FaGithub, color: "#FFFFFF" }], // ✅ white
   },
   {
     title: "UI/UX & Design",
@@ -69,9 +75,9 @@ export const skillsGroups = [
     title: "Hosting & Deployment",
     skills: [
       { name: "XAMPP", icon: SiXampp, color: "#FB7A24" },
-      { name: "GitHub Pages", icon: FaGithub, color: "#181717" },
+      { name: "GitHub Pages", icon: FaGithub, color: "#FFFFFF" }, // ✅ white
       { name: "WordPress Hosting", icon: FaWordpress, color: "#21759B" },
-      { name: "Vercel app", icon: SiVercel, color: "#000000" },
+      { name: "Vercel app", icon: SiVercel, color: "#FFFFFF" }, // ✅ white
     ],
   },
   {

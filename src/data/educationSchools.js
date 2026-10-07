@@ -5,10 +5,10 @@ import djaElem from "../assets/logos/dja-elem.png";
 export const schools = [
   {
     name: "Jose Rizal Memorial State University – Katipunan Campus",
-    subtitle: "Graduated (2024–2025) – Bachelor of Science in Computer Science",
+    subtitle: "Graduated 2024 – Bachelor of Science in Computer Science",
     logo: jrmsu,
     details:
-      "I graduated from Jose Rizal Memorial State University – Katipunan Campus with a Bachelor of Science in Computer Science during the 2024–2025 academic year.",
+      "I graduated from Jose Rizal Memorial State University – Katipunan Campus with a Bachelor of Science in Computer Science in 2024.",
   },
   {
     name: "Don Jose Aguirre National High School",
