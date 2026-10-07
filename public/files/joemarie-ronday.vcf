@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Ronday;Joemarie;;;
+FN:Joemarie Ronday
+TITLE:Front-end Web Developer
+EMAIL;TYPE=INTERNET:joemarie27r@gmail.com
+TEL;TYPE=CELL:+639073195155
+URL:https://portfolio-of-joe.vercel.app/
+URL:https://github.com/CODEwithJOEE
+URL:https://ph.linkedin.com/in/joemarie-ronday-908a9a360
+ADR;TYPE=WORK:;;Zamboanga del Norte;;;Philippines
+NOTE:Front-end Web Developer — React, PHP, WordPress
+END:VCARD
