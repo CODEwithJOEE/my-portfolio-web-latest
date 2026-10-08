@@ -45,12 +45,12 @@ export const projects = [
     button: "View Projects",
   },
   {
-    title: "Milk Tea and Coffee Shop",
-    status: "Completed",
-    img: "/projects/milk-tea-and-coffee-shop.png",
-    desc: "A business site for a milk tea and coffee shop with menu pages and basic ordering forms. Built with Vite and JavaScript. Data stored in MongoDB.",
-    techs: ["Vite", "JavaScript", "MongoDB", "TailwindCss"],
-    live: "https://github.com/CODEwithJOEE/milk-tea-and-coffee-shop",
+    title: "The Chronicle | Magazine Site",
+    status: "Live",
+    img: "/projects/chronicles-app.webp",
+    desc: "A business site for a Backlink articles. Built with Next JS and Supabase. Data stored in Supabase.",
+    techs: ["Next.js", "Supabase", "TailwindCss"],
+    live: "https://magazinesite.vercel.app/",
     button: "View Projects",
   },
   {
